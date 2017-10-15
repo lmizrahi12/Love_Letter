@@ -1,0 +1,42 @@
+{
+  "Guard": {
+    "value": "1",
+    "effect": "Choose a non-Guard card and choose another player. If that player has that card, he or she is out of the round.",
+    "name": "Guard"
+  },
+  "Priest": {
+    "value": "2",
+    "effect": "Look at another player's hand.",
+    "name": "Priest"
+  },
+  "Baron": {
+    "value": "3",
+    "effect": "You and another player secretly compare hands. The player with the lower value is out of the round.",
+    "name": "Baron"
+  },
+  "Handmaiden": {
+    "value": "4",
+    "effect": "Until your next turn, ignore all effects from other player's cards.",
+    "name": "Handmaiden"
+  },
+  "Prince": {
+    "value": "5",
+    "effect": "Choose any player(including yourself) to discard his or her hand and draw a new one.",
+    "name": "Prince"
+  },
+  "King": {
+    "value": "6",
+    "effect": "Trade hands with another player of your choice.",
+    "name": "King"
+  },
+  "Countess": {
+    "value": "7",
+    "effect": "If you have this card and the King or Prince in your hand, you must play this card.",
+    "name": "Countess"
+  },
+  "Princess": {
+    "value": "8",
+    "effect": "If you discard this card, you are out of the round.",
+    "name": "Princess"
+  }
+}
